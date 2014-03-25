@@ -1,6 +1,6 @@
 This sample will provide the steps to create a simple iOS application that can consume Radiation (RadNet) Data. The Envirofacts RadNet database contains sample results for a variety of radionuclides and radiation types from 200 monitoring stations across all 50 states and the American Territories. 
 
-This API Data Sample, queries and displays results of these samples, for an entered analyte. Download the XCode project code required for this project.  The same code, along with step-by-step guidance for this API sample project can be found here: http://epa.gov/developer/ios.html
+This API Data Sample, queries and displays results of these samples, for an entered analyte. Download the XCode project code required for this project.  The same code, along with step-by-step guidance for this API sample project can be found here: http://developer.epa.gov/ios-sample-code/
 
 The United States Environmental Protection Agency (EPA) GitHub project code is provided on an "as is" basis and the user assumes responsibility for its use.
 
